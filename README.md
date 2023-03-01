@@ -1,5 +1,5 @@
 # Machine-learning_OpenCV
-机器学习-使用OpenCV框架
+机器学习-使用OpenCV框架,学习笔记 -> [mynotes](https://github.com/yang-datong/Machine-learning_OpenCV/blob/main/MYNOTES.md)
 
 ## 背景
 
