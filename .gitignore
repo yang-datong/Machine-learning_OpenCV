@@ -1,3 +1,8 @@
+# Local
+*.yml
+*.npy
+/lfw
+
 # Prerequisites
 *.d
 
